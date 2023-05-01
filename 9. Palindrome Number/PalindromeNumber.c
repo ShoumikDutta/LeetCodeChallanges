@@ -21,7 +21,7 @@ bool isPalindrome(int x){
         //printf("%d\n",new_num-old_num);
         if (new_num==old_num)
         {
-            //printf("trun");
+            //printf("true");
             return true;
         }
         else
